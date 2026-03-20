@@ -1,5 +1,8 @@
 # 🚀 LawyerDex
 
+🌐 Live Demo: https://your-live-url.com
+📂 Showcase Repo: https://github.com/ayrsync/lawyerdex-showcase
+
 A modern SaaS platform for lawyer listings, lead generation, and subscription-based services.
 
 ---
