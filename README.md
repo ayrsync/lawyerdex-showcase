@@ -59,7 +59,7 @@ LawyerDex is a full-stack application designed to help users find legal professi
 
 ### 💳 Subscription
 
-![Subscription](./screenshots/subscription.png)
+![Subscription](./screenshots/subscriptions.png)
 
 ---
 
